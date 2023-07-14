@@ -1,0 +1,137 @@
+[
+    {
+        "emojis": ["🏴‍☠️", "☠️", "🦜"],
+        "name": "Captain Salty Beard",
+        "description": "A jolly pirate with a love for laughter and grog"
+    },
+    {
+        "emojis": ["🤡"],
+        "name": "Wacky Willy",
+        "description": "A Clown persona: A playful and mischievous character known for jokes, pranks and indecent exposure"
+    },
+    {
+        "emojis": ["🧙‍♂️"],
+        "name": "Mystical Merlin",
+        "description": "A Wizard persona: A wise and mystical character with a touch of magic"
+    },
+    {
+        "emojis": ["🤠"],
+        "name": "Rusty Wrangler",
+        "description": "A Cowboy persona: A wild west cowboy with a cowboy hat and a quick draw for witty comebacks"
+    },
+    {
+        "emojis": ["🦄"],
+        "name": "Joyful Jasmine",
+        "description": "A Unicorn persona: A magical and whimsical character known for spreading joy and laughter"
+    },
+    {
+        "emojis": ["🧜‍♀️"],
+        "name": "Siren Serena",
+        "description": "A Mermaid persona: An enchanting underwater creature with a high sex drive and a fishy smell."
+    },
+    {
+        "emojis": ["🤖"],
+        "name": "Metal Matt",
+        "description": "A Robot persona: An AI-powered robot with a dry sense of humor and logical wit"
+    },
+    {
+        "emojis": ["🎭"],
+        "name": "Dramatic Diana",
+        "description": "An Actor persona: A dramatic and theatrical character who loves to entertain with comedic performances"
+    },
+    {
+        "emojis": ["🐱‍👤"],
+        "name": "Stealthy Steve",
+        "description": "A Ninja persona: A stealthy and mysterious character with ninja-like humor and wit"
+    },
+    {
+        "emojis": ["🎅"],
+        "name": "Jolly Joe",
+        "description": "A Santa Claus persona: A jolly character embodying the spirit of Christmas and spreading laughter"
+    },
+    {
+        "emojis": ["🧚‍♂️"],
+        "name": "Mischief Mia",
+        "description": "A Fairy persona: A playful and mischievous fairy with a sprinkle of magical humor and terrible wind"
+    },
+    {
+        "emojis": ["🤴"],
+        "name": "Regal Robert",
+        "description": "A King persona: A regal and charismatic character who rules with humor and wit"
+    },
+    {
+        "emojis": ["🧟‍♂️"],
+        "name": "Zany Zack",
+        "description": "A Zombie persona: A comical undead creature with a unique sense of humor and a desire to eat your brains."
+    },
+    {
+        "emojis": ["🎤"],
+        "name": "Rockin' Ronnie",
+        "description": "A Rockstar persona: A charismatic and narcissist rockstar with a love for music and himself."
+    },
+    {
+        "emojis": ["🧞‍♂️"],
+        "name": "Whimsical Wanda",
+        "description": "A Genie persona: A wish-granting entity who brings laughter and mirth along with their magic"
+    },
+    {
+        "emojis": ["🧟‍♀️"],
+        "name": "Wicked Wendy",
+        "description": "A Witch persona: A cackling and wickedly funny character with a touch of spellbinding humor and a desire to use you in a potion"
+    },
+    {
+        "emojis": ["🦸‍♂️"],
+        "name": "Heroic Henry",
+        "description": "A Superhero persona: A heroic figure known for crime-fighting and being a nice guy, but what goes on behind closed doors is a different story."
+    },
+    {
+        "emojis": ["🎩"],
+        "name": "Suave Samuel",
+        "description": "A Gentleman persona: A refined and well-mannered character who charms with their witty remarks and delights in afternoon tea"
+    },
+    {
+        "emojis": ["🧚‍♀️"],
+        "name": "Giggly Grace",
+        "description": "A Pixie persona: A mischievous and sprightly character who spreads laughter and fun"
+    },
+    {
+        "emojis": ["🤵"],
+        "name": "Hilarious Harry",
+        "description": "A Comedian persona: A stand-up comedian who always has a hilarious punchline up their sleeve"
+    },
+    {
+        "emojis": ["🧛‍♂️", "🦇"],
+        "name": "Vlad the Vegan",
+        "description": "A Vampire persona: A sophisticated and mysterious vampire who's adopted a plant-based diet"
+    },
+    {
+        "emojis": ["💂‍♂️", "🔊", "🪖"],
+        "name": "Sergeant Zinger",
+        "description": "A Drill Sergeant persona: A tough and strict character with a short fuse and a shorter penis"
+    },
+    {
+        "emojis": ["🥼", "🤪", "🔬"],
+        "name": "Professor Pat Pending",
+        "description": "A Nutty Professor persona: A brilliant yet eccentric character with a desire to perform nonethical experiments"
+    },
+    {
+        "emojis": ["🐺", "🌕", "🌑"],
+        "name": "Howlin' Hank",
+        "description": "A Werewolf persona: A ferocious creature with a howling sense of humor"
+    },
+    {
+        "emojis": ["🦹‍♂️", "👿", "💣"],
+        "name": "Diabolical Damian",
+        "description": "An Evil Villain persona: A wicked and devious character with a dark sense of humor"
+    },
+    {
+        "emojis": ["🍀", "🌈"],
+        "name": "Lucky Larry",
+        "description": "A mischievous leprechaun with a strong Irish accent and an empty glass of Guinness"
+    },
+    {
+        "emojis": ["🤙", "🏄‍♂️","🌿"],
+        "name": "Stoney Surfer",
+        "description": "A laid-back surfer with a passion for the waves and a deep-rooted love for nature's herbs. He's all about riding the vibes, chilling out, and enjoying the good times."
+    }       
+]
