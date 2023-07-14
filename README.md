@@ -16,13 +16,13 @@ sudo apt install python3.10-venv
 
 wget https://github.com/jrd3n/WhatsApp_Chatgpt_BOT/archive/refs/heads/main.zip
 
+sudo apt install unzip
 unzip main.zip
 
-cd WebApp
+cd WhatsApp_Chatgpt_BOT-main/
 
 python3 -m venv venv
 source venv/bin/activate
-
 pip install -r requirements.txt
 
 mv ./lib/PWDS_copy.py ./lib/PWDS.py
@@ -51,7 +51,22 @@ get the IP and Number and add to the PWDs.py
 
 https://platform.openai.com/
 
-To install and run forever
+## Test the server
+
+now that you have the API information save the file. CNTROL+X and yes
+
+test the server
+
+```bash
+
+python3 app.py
+
+```
+run for a bit
+
+close with cntrol+c
+
+### To install and run forever
 
 ```bash
 
@@ -63,7 +78,7 @@ crontab -e
 add the following comand at the bottom of the file
 ```bash
 
-@reboot cd /home/ubuntu/WebApp && /home/ubuntu/WebApp/venv/bin/python3 /home/ubuntu/WebApp/app.py  >> /home/ubuntu/WebApp/log.txt 2>&1
+@reboot cd /home/ubuntu/WhatsApp_Chatgpt_BOT-main && /home/ubuntu/WhatsApp_Chatgpt_BOT-main/venv/bin/python3 /home/ubuntu/WhatsApp_Chatgpt_BOT-main/app.py  >> /home/ubuntu/WhatsApp_Chatgpt_BOT-main/log.txt 2>&1
 ```
 control x to save
 
